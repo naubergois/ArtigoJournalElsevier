@@ -1,0 +1,73 @@
+This is BibTeX, Version 0.99d (TeX Live 2015)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: ecrc-template.aux
+The style file: ../elsarticle-num.bst
+Database file #1: ../ecrc-template.bib
+Repeated entry---line 1058 of file ../ecrc-template.bib
+ : @book{Halili2008
+ :                 ,
+I'm skipping whatever remains of this entry
+Warning--empty pages in Draheim2006b
+Warning--empty school in Jiang2010
+Warning--empty journal in Gay
+Warning--empty year in Gay
+Warning--empty journal in Sullivan
+Warning--empty year in Sullivan
+Warning--empty journal in Sandler2004
+Warning--empty publisher in Erinle2013
+Warning--empty publisher in Halili2008
+Warning--empty journal in Goncalves2014
+Warning--there's a number but no volume in Wert2013a
+Warning--empty journal in Cortellessa2007
+Warning--there's a number but no volume in Harman2015
+Warning--empty author in Afzal2009
+Warning--empty journal in Garousi2006
+Warning--there's a number but no volume in Garousi2006
+Warning--empty year in DiAlesio2014
+Warning--empty pages in Alander
+Warning--empty journal in Canfora
+Warning--empty journal in Tracey1998
+Warning--there's a number but no volume in Pohlheim2005
+Warning--empty publisher in Jaziri2008
+You've used 48 entries,
+            2937 wiz_defined-function locations,
+            984 strings with 14797 characters,
+and the built_in function-call counts, 12950 in all, are:
+= -- 1219
+> -- 374
+< -- 5
++ -- 156
+- -- 108
+* -- 915
+:= -- 1720
+add.period$ -- 60
+call.type$ -- 48
+change.case$ -- 44
+chr.to.int$ -- 6
+cite$ -- 70
+duplicate$ -- 402
+empty$ -- 1501
+format.name$ -- 139
+if$ -- 3357
+int.to.chr$ -- 0
+int.to.str$ -- 48
+missing$ -- 51
+newline$ -- 173
+num.names$ -- 47
+pop$ -- 340
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 874
+stack$ -- 0
+substring$ -- 609
+swap$ -- 104
+text.length$ -- 3
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 22
+while$ -- 101
+width$ -- 50
+write$ -- 403
+(There was 1 error message)
