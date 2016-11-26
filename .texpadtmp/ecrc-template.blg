@@ -3,7 +3,7 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: ecrc-template.aux
 The style file: ../elsarticle-num.bst
 Database file #1: ../ecrc-template.bib
-Repeated entry---line 1058 of file ../ecrc-template.bib
+Repeated entry---line 1067 of file ../ecrc-template.bib
  : @book{Halili2008
  :                 ,
 I'm skipping whatever remains of this entry
@@ -29,45 +29,45 @@ Warning--empty journal in Canfora
 Warning--empty journal in Tracey1998
 Warning--there's a number but no volume in Pohlheim2005
 Warning--empty publisher in Jaziri2008
-You've used 48 entries,
+You've used 49 entries,
             2937 wiz_defined-function locations,
-            984 strings with 14797 characters,
-and the built_in function-call counts, 12950 in all, are:
-= -- 1219
-> -- 374
-< -- 5
-+ -- 156
-- -- 108
-* -- 915
-:= -- 1720
-add.period$ -- 60
-call.type$ -- 48
-change.case$ -- 44
+            990 strings with 15020 characters,
+and the built_in function-call counts, 13413 in all, are:
+= -- 1263
+> -- 387
+< -- 6
++ -- 161
+- -- 112
+* -- 940
+:= -- 1773
+add.period$ -- 61
+call.type$ -- 49
+change.case$ -- 45
 chr.to.int$ -- 6
-cite$ -- 70
-duplicate$ -- 402
-empty$ -- 1501
-format.name$ -- 139
-if$ -- 3357
+cite$ -- 71
+duplicate$ -- 422
+empty$ -- 1556
+format.name$ -- 144
+if$ -- 3483
 int.to.chr$ -- 0
-int.to.str$ -- 48
-missing$ -- 51
-newline$ -- 173
-num.names$ -- 47
-pop$ -- 340
+int.to.str$ -- 49
+missing$ -- 52
+newline$ -- 176
+num.names$ -- 48
+pop$ -- 350
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 874
+skip$ -- 910
 stack$ -- 0
-substring$ -- 609
-swap$ -- 104
-text.length$ -- 3
+substring$ -- 641
+swap$ -- 113
+text.length$ -- 4
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 22
-while$ -- 101
-width$ -- 50
-write$ -- 403
+while$ -- 105
+width$ -- 51
+write$ -- 412
 (There was 1 error message)
