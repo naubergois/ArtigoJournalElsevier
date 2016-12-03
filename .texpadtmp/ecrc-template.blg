@@ -3,7 +3,7 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: ecrc-template.aux
 The style file: ../elsarticle-num.bst
 Database file #1: ../ecrc-template.bib
-Repeated entry---line 1067 of file ../ecrc-template.bib
+Repeated entry---line 1112 of file ../ecrc-template.bib
  : @book{Halili2008
  :                 ,
 I'm skipping whatever remains of this entry
@@ -19,6 +19,7 @@ Warning--empty publisher in Halili2008
 Warning--empty journal in Goncalves2014
 Warning--there's a number but no volume in Wert2013a
 Warning--empty journal in Cortellessa2007
+Warning--there's a number but no volume in Hunt2002
 Warning--there's a number but no volume in Harman2015
 Warning--empty author in Afzal2009
 Warning--empty journal in Garousi2006
@@ -29,45 +30,45 @@ Warning--empty journal in Canfora
 Warning--empty journal in Tracey1998
 Warning--there's a number but no volume in Pohlheim2005
 Warning--empty publisher in Jaziri2008
-You've used 49 entries,
+You've used 53 entries,
             2937 wiz_defined-function locations,
-            990 strings with 15020 characters,
-and the built_in function-call counts, 13413 in all, are:
-= -- 1263
-> -- 387
+            1016 strings with 15847 characters,
+and the built_in function-call counts, 14484 in all, are:
+= -- 1355
+> -- 433
 < -- 6
-+ -- 161
-- -- 112
-* -- 940
-:= -- 1773
-add.period$ -- 61
-call.type$ -- 49
-change.case$ -- 45
++ -- 179
+- -- 126
+* -- 1016
+:= -- 1921
+add.period$ -- 66
+call.type$ -- 53
+change.case$ -- 48
 chr.to.int$ -- 6
-cite$ -- 71
-duplicate$ -- 422
-empty$ -- 1556
-format.name$ -- 144
-if$ -- 3483
+cite$ -- 76
+duplicate$ -- 453
+empty$ -- 1676
+format.name$ -- 161
+if$ -- 3756
 int.to.chr$ -- 0
-int.to.str$ -- 49
-missing$ -- 52
-newline$ -- 176
-num.names$ -- 48
-pop$ -- 350
+int.to.str$ -- 53
+missing$ -- 57
+newline$ -- 190
+num.names$ -- 52
+pop$ -- 381
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 910
+skip$ -- 977
 stack$ -- 0
-substring$ -- 641
-swap$ -- 113
+substring$ -- 685
+swap$ -- 118
 text.length$ -- 4
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
-warning$ -- 22
-while$ -- 105
-width$ -- 51
-write$ -- 412
+warning$ -- 23
+while$ -- 113
+width$ -- 55
+write$ -- 444
 (There was 1 error message)
