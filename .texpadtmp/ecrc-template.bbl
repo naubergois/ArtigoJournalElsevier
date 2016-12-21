@@ -150,6 +150,9 @@ T.~Mackinnon, S.~Freeman, P.~Craig,
   287--301.
 \newline\urlprefix\url{http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.23.3214{\&}rep=rep1{\&}type=pdf}
 
+\bibitem{Brown2003}
+M.~a. Brown, E.~Tapolcsanyi, {Mock Object Patterns}, Matrix (2003) 1--17.
+
 \bibitem{Hunt2002}
 E.~A. Hunt, D.~Thomas, I.~T. Pragmatic, A.~Hunt, T.~Mackinnon, S.~Freeman,
   {Software Construction}, Ieee Software~(June) (2002) 22--24.
@@ -310,5 +313,15 @@ F.~Glover, R.~Mart{\'{i}}, {Tabu Search}, Tabu Search (1986) 1--16.
 \bibitem{talbi2009metaheuristics}
 E.-G. Talbi, Metaheuristics: from design to implementation, Vol.~74, John Wiley
   \& Sons, 2009.
+
+\bibitem{GendreauMichelandPotvin2010}
+J.-Y. {Gendreau, Michel and Potvin}, {Handbook of Metaheuristics}, Vol. 157,
+  2010.
+\newblock \href {http://dx.doi.org/10.1007/978-1-4614-1900-6}
+  {\path{doi:10.1007/978-1-4614-1900-6}}.
+
+\bibitem{Bertolino2008}
+{Model-based generation of testbeds for web services}, Testing of Software and
+  {\ldots} (2008) 266--282.
 
 \end{thebibliography}
